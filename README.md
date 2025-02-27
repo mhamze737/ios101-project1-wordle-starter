@@ -33,8 +33,7 @@ https://www.loom.com/share/81724f4881074452836b07c7c18d46df?sid=7bc8ee4b-f9b6-45
 
 Describe any challenges encountered while building the app.
 I had no challenges in building the app.
-The challenge I am currently encountering is pushing the repo onto github.
-
+The challenge I am currently encountering is pushing all the content onto github
 ## License
 
     Copyright [yyyy] [name of copyright owner]
